@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                 * Limit operations to a specific access group.
                 DESC
   s.authors     = { "Evgenii Neumerzhitckii" => "sausageskin@gmail.com" }
-  s.source      = { :git => "https://github.com/evgenyneu/keychain-swift.git", :tag => s.version }
+  s.source      = { :git => "https://github.com/JivoChat/keychain-swift.git", :tag => s.version }
   s.screenshots  = "https://raw.githubusercontent.com/evgenyneu/keychain-swift/master/graphics/keychain-swift-demo-3.png"
   s.source_files = "Sources/*.swift"
   s.ios.deployment_target = "8.0"
